@@ -1,2 +1,2 @@
 #!/bin/bash
-env | set | declare -f
+env & set & declare -f &
